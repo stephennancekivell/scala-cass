@@ -52,7 +52,7 @@ you can find it on bintray. Currently only supports **scala 2.11**
 **sbt**
 ```scala
 resolvers += Resolver.jcenterRepo
-libraryDependencies += "com.github.thurstonsand" %% "scalacass" % "0.1"
+libraryDependencies += "com.github.thurstonsand" %% "scalacass" % "0.3.3"
 ```
 **maven**  
 ```xml
